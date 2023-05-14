@@ -6,6 +6,14 @@
 - Licensed real estate agent in New York
 - 10+ years experience in customer service, been part of top restaurants in New york.
 
+# Skills
+- Html
+- Css
+- Javascript
+- Sql
+- C++
+
+That is so funny! :joy:
 <!--
 **platinyy/platinyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
