@@ -1,4 +1,4 @@
-# Hello my name is Platin , I am Albanian living in yonkers New york.I am currently student at General Assembly - Software Enginnering Immersive.I'm very exciting about learning new things everyday, on this intense and incredible course.
+ Hello my name is Platin , I am Albanian living in yonkers New york.I am currently student at General Assembly - Software Enginnering Immersive.I'm very exciting about learning new things everyday, on this intense and incredible course.
  
 # About me 
 - Student at General Assemble-Software Enginnering Immersive 
