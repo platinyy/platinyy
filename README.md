@@ -1,5 +1,9 @@
-### Hi there my name is Platin
-![alt text](baskketball-laptop.jpeg)
+### Hello my name is Platin , I am Albanian living in yonkers New york.I am currently student at General Assembly - Software Enginnering bootcamp.I'm very exciting about learning new things everyday, on this intense and incredible course.
+ ---
+# About me 
+- Student at General Assemble-Software Enginnering
+- Bachelor of Computer Science 
+
 <!--
 **platinyy/platinyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
