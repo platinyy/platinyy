@@ -13,7 +13,7 @@
 - Sql
 - C++
 
-That is so funny! :shit
+That is so funny! :computer:
 <!--
 **platinyy/platinyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
