@@ -1,5 +1,5 @@
 ### Hi there my name is Platin
-
+![alt text](baskketball-laptop.jpeg)
 <!--
 **platinyy/platinyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
