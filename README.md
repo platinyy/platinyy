@@ -4,16 +4,22 @@
 - Student at General Assembly-Software Enginnering Immersive 
 - Bachelor of Computer Science - South East European University SEEU Tetovo , Macedonia 20012-2015
 - Licensed real estate agent in New York
-- 10+ years experience in customer service, been part of top restaurants in New york.
+- 10+ years experience in customer service, been part of top restaurants in New York.
 
 # Skills
-- Html
-- Css
-- Javascript
-- Sql
+- HTML
+- CS
+- JavaScript
+- SQL
 - C++
-
-
+- Node Js
+- Express Js
+- EJS
+- MongoDB
+- Mongoose
+- APIs
+- Python
+- Django
 <!--
 **platinyy/platinyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
