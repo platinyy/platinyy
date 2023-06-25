@@ -8,7 +8,7 @@
 
 # Skills
 - HTML
-- CS
+- CSS
 - JavaScript
 - SQL
 - C++
